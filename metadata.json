@@ -1,0 +1,6 @@
+{
+  "name": "PriceLab – Laboratorio Inteligente de Precios",
+  "description": "Laboratorio interactivo de analítica de datos para la estimación de curvas de demanda, optimización de rentabilidad, simulación de escenarios de precios y formulación de políticas comerciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
